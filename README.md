@@ -1,6 +1,6 @@
 # SM2I
 
-SM2I is a wordplay of SMHI, the swedish weather institute. 
+SM2I is wordplay of SMHI, the swedish weather institute. 
 The letter 'H' sounds a lot like the number 2 in swedish.
 
 Ever tired of first checking the weather forecast for where you live,
